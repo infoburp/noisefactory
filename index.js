@@ -1,0 +1,1 @@
+function(f,t,S){for(t|=S='RIFF_oO_WAVEfmt '+atob('EAAAAAEAAQBAHwAAQB8AAAEACAA')+'data';++t<3e5;)S+=String.fromCharCode(eval(f));return S}
